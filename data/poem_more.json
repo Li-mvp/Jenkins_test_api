@@ -1,0 +1,42 @@
+{
+    "sum":{
+        "url": "http://api.apiopen.top/getSongPoetry",
+        "page": 1,
+        "count": 20
+    },
+    "sum1":{
+        "url": "http://api.apiopen.top/getSongPoetry",
+        "page": 3,
+        "count": 20
+    },
+    "sum2":{
+        "url": "http://api.apiopen.top/getSongPoetry",
+        "page": 3,
+        "count": 20
+    },
+    "sum4":{
+        "url": "http://api.apiopen.top/getSongPoetry",
+        "page": 3,
+        "count": 20
+    },
+    "sum5":{
+        "url": "http://api.apiopen.top/getSongPoetry",
+        "page": 3,
+        "count": 20
+    },
+    "sum6":{
+        "url": "http://api.apiopen.top/getSongPoetry",
+        "page": 3,
+        "count": 20
+    },
+    "sum7":{
+        "url": "http://api.apiopen.top/getSongPoetry",
+        "page": 3,
+        "count": 20
+    },
+    "sum8":{
+        "url": "http://api.apiopen.top/getSongPoetry",
+        "page": 3,
+        "count": 20
+    }
+}
